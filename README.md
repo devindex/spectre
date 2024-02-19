@@ -29,16 +29,16 @@ Download the compiled and minified [Spectre CSS files](https://github.com/pictur
 ### Install from CDN
 Alternatively, you can use the [unpkg](https://unpkg.com/) or [cdnjs](https://cdnjs.com/libraries/spectre.css) CDN to load compiled Spectre.css.
 
-`<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">`
+`<link rel="stylesheet" href="https://unpkg.com/@devindex/spectre/dist/spectre.min.css">`
 
 ### Install with NPM
-`$ npm install spectre.css --save`
+`$ npm install @devindex/spectre --save`
 
 ### Install with Yarn
-`$ yarn add spectre.css`
+`$ yarn add @devindex/spectre`
 
 ### Install with Bower
-`$ bower install spectre.css --save`
+`$ bower install @devindex/spectre --save`
 
 ## Compiling custom version
 
